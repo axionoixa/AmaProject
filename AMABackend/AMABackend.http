@@ -1,0 +1,6 @@
+@AMABackend_HostAddress = http://localhost:5199
+
+GET {{AMABackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
